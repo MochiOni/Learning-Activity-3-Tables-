@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+    background-color:black;
+    color:pink;
+}
+td, th{
+   border: 1px solid;
+   text-align: center;
+   padding:4px;
+}
+th{
+   background-color: black;
+}
+td{
+   background-color: black;
+}
+table{
+   width:100%;
+   border-collapse: collapse;
+}
+h1{
+   background-color: black;
+   color:pink;
+}
